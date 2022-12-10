@@ -52,3 +52,5 @@ Mis tareas principales eran:
 * *Número de teléfono:* [620874662](tel:llobellmiguel@gmail.com)
 * *Correo:* [llobellmiguel03@gmail.com](mailto:llobellmiguel03@gmail.com)
 * *LinkedIn:* [Miguel Llobell](https://www.linkedin.com/in/m-llobell/)
+* 
+* *Versión pdf de mi curriculum* [Curriculum](Miguel-Llobell.pdf)

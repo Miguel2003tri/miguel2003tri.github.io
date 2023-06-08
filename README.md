@@ -7,6 +7,14 @@ Mi nombre es Miguel Llobell. Tengo 19 años y actualmente estoy cursando el grad
 
 
 ## Experiencia laboral
+### Yobo estudios
+
+He realizado las FCTs de grado superior DAW en esta pequeña empresa donde he podido aprender junto a mis compañeros de equipo difentes frameworks y herramientas de trabajo.
+
+Mis tareas principales eran:
+
+* Desarrollo frontend
+* Desarrollo backend.
 
 ### Socorritas / Patron
 
@@ -33,12 +41,18 @@ Mis tareas principales eran:
 |Programa|Nivel|
 | --- | --- |
 |Java|Medio|
-|Django|Alto|
-|JavaScript|Medio|
+|JavaScript|Alto|
 |CSS|Medio|
 |Mysql|Alto|
 |HTML|Alto|
-|PHP|Alto|
+|PHP|Medio|
+|Django|Alto|
+|RedwoodJS|Alto|
+|Astro|Alto|
+|Angular|Medio|
+|React|Alto|
+|React-Native|Alto|
+
 
 ## Más información
 
